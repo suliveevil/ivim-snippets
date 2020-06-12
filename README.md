@@ -13,3 +13,13 @@ dependencies: python3
 ### neocomplete
 
 dependencies: lua
+
+## Reference
+
+https://github.com/emugel/VIM-thesaurus-files
+
+https://github.com/nl253/Dictionaries
+
+https://github.com/skywind3000/vim-dict
+
+https://github.com/honza/vim-snippets
