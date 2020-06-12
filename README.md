@@ -1,4 +1,12 @@
-# ivim-snippets
+<!--
+ * @Author: your name
+ * @Date: 2020-06-12 07:37:55
+ * @LastEditTime: 2020-06-13 04:01:59
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \undefinedc:\Users\swy\Documents\GitHub\ivim-snippets\README.md
+--> 
+# swy-ivim
 
 only UltiSnips and dictionary supported.
 
