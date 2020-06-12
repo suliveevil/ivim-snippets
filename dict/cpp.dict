@@ -1,3 +1,46 @@
+
+#CASE=y
+#COMMENTOFF2=
+#COMMENTOFF=*/
+#COMMENTON2=
+#COMMENTON=/*
+#CONTINUE_QUOTE=n
+#DELIMITER=,(){}[]-+*%/="'~!&|<>?:;.#
+#ESCAPE=\
+#KEYWORD=Compiler directives
+#KEYWORD=Library names
+#KEYWORD=Predefinitions
+#KEYWORD=Reserved words
+#KEYWORD=Windows data types
+#LINECOMMENT2=
+#LINECOMMENT=//
+#PREFIX1=
+#PREFIX2=
+#PREFIX3=
+#PREFIX4=
+#PREFIX5=
+#QUOTATION1='
+#QUOTATION2="
+#SPECIAL_STX=cpp
+#SUFFIX1=
+#SUFFIX2=
+#SUFFIX3=
+#SUFFIX4=
+#SUFFIX5=
+#TITLE=C/C++
+; C/C++ syntax file
+; Dnepropetrovsk, Ukraine
+; January 18, 2005
+; This file is required for EditPlus to run correctly
+; This file supports:
+; Updated by Timofei Ivaschenko
+; Writen by Purewell
+; © IT Step Computer Academy
+; • Compiler directives
+; • Library names
+; • Predefinitions
+; • Reserved words
+; • Windows data types
 AF_APPLETALK
 AF_ASH
 AF_ATMPVC

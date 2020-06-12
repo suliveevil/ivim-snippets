@@ -1,4 +1,22 @@
 !
+#
+#AUTOCASE=y
+#CASE=n
+#CONTINUE_QUOTE=n
+#DELIMITER=,.;:'"<>()[]{}-+*/\!&|#=@?^^
+#KEYWORD=Batch Parameter Modifiers
+#KEYWORD=Batch Parameter Variables
+#KEYWORD=Commands
+#KEYWORD=Environment Variables
+#KEYWORD=Operators
+#KEYWORD=Redirection Operators
+#LINECOMMENT2=::
+#LINECOMMENT=REM
+#PREFIX1=/
+#PREFIX2=:
+#QUOTATION1='
+#QUOTATION2="
+#TITLE=Batch & Command-line WindowsXP
 $
 %0
 %1
@@ -61,6 +79,24 @@ $
 -
 .
 /
+; %WINDIR%\Help\ntcmds.chm
+; Author: Steven (freshbatch@gmail.com)
+; Description: Command-Line & Batch Files in Windows XP
+; Last Modified: October 4th, 2006
+; Ntcmds.stx Version 1.0
+; This file is based on Official Microsft Windows XP Pro Documentation (Command-line reference A-Z)
+; http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/ntcmds.mspx
+;Batch File Commands
+;Escape Character
+;External Commands
+;Internal Commands
+;Parsing Keywords
+;System Environment Variables
+;echo pARAMETERS
+;fILTERS
+;if pARAMETERS
+;lOCAL eNVIRONMENT vARIABLES
+;setlocal Parameters
 <
 <&
 =

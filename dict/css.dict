@@ -1,5 +1,25 @@
+
  text-wrap
 !important
+#
+#COMMENTOFF=*/
+#COMMENTON=/*
+#DELIMITER=:;,.={}[]()#
+#ESCAPE=\
+#KEYWORD=Classes
+#KEYWORD=HTML Tags
+#KEYWORD=Identifiers
+#KEYWORD=Predefined values
+#KEYWORD=Properties
+#KEYWORD=Pseudo classes
+#NUMBER_PATTERN=css
+#PREFIX1=>
+#PREFIX2=+
+#PREFIX3=~
+#PREFIX4=#
+#PREFIX5=.
+#QUOTATION1='
+#QUOTATION2="
 *
 -khtml-border-radius
 -moz-border-image

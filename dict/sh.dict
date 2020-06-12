@@ -1,5 +1,30 @@
+
 !
 #
+#CASE=y
+#COMMENTOFF2=
+#COMMENTOFF=
+#COMMENTON2=
+#COMMENTON=
+#CONTINUE_QUOTE=n
+#DELIMITER=.:!#&()*,/;<=>?[\]`{|}~
+#ESCAPE=\
+#KEYWORD
+#LINECOMMENT2=
+#LINECOMMENT=#
+#PREFIX1=$
+#PREFIX2=fn_
+#PREFIX3=(
+#PREFIX4={
+#PREFIX5=-
+#QUOTATION1='
+#QUOTATION2="
+#SUFFIX1=
+#SUFFIX2=
+#SUFFIX3=
+#SUFFIX4=
+#SUFFIX5=
+#TITLE=Bash Shell. Linux Commands, too. 
 $
 $!
 $#
@@ -13,6 +38,7 @@ $?
 $@
 $_
 &&
+&& 
 ((
 ))
 *
@@ -21,6 +47,22 @@ $_
 0
 411toppm
 :
+;
+; Bash, POSIX.2 plus "common" build-ins
+; Double character delimiters 
+; Keyword 1/#, (Where #<=5 ) 
+; Keyword 4/#, (Where #<=5 ) 
+; Keyword 5/#, (Where #<=5 ) 
+; Pre-defined Shell variables
+; Reserved Words
+; The built-ins. 
+;# Version 5/1999.2; Greg Presedo-Floyd;  gregpf@2020consulting.com
+;# Version 6/2012.2; Greg Presedo-Floyd;  gregpf@2020consulting.com
+;##########################################################
+;; /usr/java/java/bin:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/root/bin
+;; Common utilities in places like
+;; Cygwin
+;; Keyword 2/#, (Where #<=5 ) 
 <<
 >>
 ?

@@ -1,9 +1,39 @@
+
+#CASE=y
+#COMMENTOFF2=
+#COMMENTOFF=
+#COMMENTON2=
+#COMMENTON=
+#CONTINUE_QUOTE=y
+#DELIMITER={}().,:;=\
+#ESCAPE=
+#KEYWORD=Arguments
+#KEYWORD=Packages And Preambles
+#LINECOMMENT2=
+#LINECOMMENT=%
+#NUMBER_PATTERN=cpp
+#PREFIX1=\
+#PREFIX2=
+#PREFIX3=
+#PREFIX4=
+#PREFIX5=
+#QUOTATION1=
+#QUOTATION2=
+#SUFFIX1=
+#SUFFIX2=
+#SUFFIX3=
+#SUFFIX4=
+#SUFFIX5=
+#TITLE=LaTeX
 10pt
 11pt
 12pt
 14pt
 16pt
 8pt
+; EditPlus Syntax File 
+; From A. O. Schweiger
+; Tags for various umambigious Latex packages 
 [1]
 [2]
 [3]

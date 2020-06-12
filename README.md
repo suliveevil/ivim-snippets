@@ -23,3 +23,5 @@ https://github.com/nl253/Dictionaries
 https://github.com/skywind3000/vim-dict
 
 https://github.com/honza/vim-snippets
+
+https://github.com/tokorom/swift-dict.vim

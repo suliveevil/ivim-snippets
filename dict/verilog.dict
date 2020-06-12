@@ -1,3 +1,37 @@
+
+#AUTOCASE=
+#CASE=y
+#COMMENTOFF2=
+#COMMENTOFF=*/
+#COMMENTON2=
+#COMMENTON=/*
+#CONTINUE_QUOTE=n
+#DELIMITER=,(){}[]-+*%/="'~!&|\<>?:;.
+#ESCAPE=\
+#HEREDOC=
+#HTML_EMBEDDED=
+#KEYWORD=Compiler directives
+#KEYWORD=Keywords
+#KEYWORD=System tasks/Simulator commands
+#LINECOMMENT2=//
+#LINECOMMENT=   //
+#NUMBER_PATTERN=
+#PREFIX1=$
+#PREFIX2=
+#PREFIX3=
+#PREFIX4=
+#PREFIX5=
+#QUOTATION1="
+#QUOTATION2=
+#SCRIPT_BEGIN=
+#SCRIPT_END=
+#SPECIAL_STX=
+#SUFFIX1=
+#SUFFIX2=
+#SUFFIX3=
+#SUFFIX4=
+#SUFFIX5=
+#TITLE=Verilog/SystemVerilog
 $bitstoread
 $bitstoreal
 $cleartrace
@@ -142,6 +176,22 @@ $writeh
 $writememb
 $writememh
 $writeo
+;
+;     If you want to comment out the source code from the beginning of the
+;     The intention is to let the "code folding" function correctly, by
+;     Verilog-2001, SystemVerilog-3.0, SystemVerilog-3.1
+;     line, you should set LINECOMMENT=//
+;     setting LINECOMMENT=   //, instead of settting LINECOMMENT2=//
+;  1) The syntax file is based on the SystemVerilog-3.1a, which includes
+;  2) You may switch the LINECOMMENT and LINECOMMENT2 options.
+;  3) If any suggestions, please feel free to drop a line to chao.chen (a_t) gmx.net
+; 2007.04.18, Langen(Hessen), Germany
+; Comments:
+; Compiler directives
+; Resersed Keywords
+; System tasks and functions, Simulator specific commands
+; Verilog-2001 & SystemVerilog-3.1a Syntax File for EditPlus Version 2.x
+; created by Chao Chen
 `celldefine
 `default_decay_time
 `default_nettype
