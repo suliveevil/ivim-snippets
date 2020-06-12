@@ -1,4 +1,4 @@
-# ivim-snippets
+# swy-ivim
 
 only UltiSnips and dictionary supported.
 
