@@ -33,3 +33,6 @@ https://github.com/skywind3000/vim-dict
 https://github.com/honza/vim-snippets
 
 https://github.com/tokorom/swift-dict.vim
+
+
+https://github.com/dshoreman/neogumbat.vim
