@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-06-12 07:37:55
- * @LastEditTime: 2020-06-13 08:23:58
+ * @LastEditTime: 2020-06-14 04:36:40
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \undefinedc:\Users\swy\Documents\GitHub\ivim-snippets\README.md
@@ -31,6 +31,8 @@ https://github.com/emugel/VIM-thesaurus-files
 https://github.com/nl253/Dictionaries
 
 https://github.com/skywind3000/vim-dict
+
+https://github.com/rkulla/pydiction
 
 https://github.com/honza/vim-snippets
 
