@@ -1,7 +1,8 @@
-snippet box "Box"
-`!p snip.rv = '┌' + '─' * (len(t[1]) + 2) + '┐'`
-│ $1 │
-`!p snip.rv = '└' + '─' * (len(t[1]) + 2) + '┘'`
+snippet code "CodeBlock"
+
+```${2:${VISUAL:Language}}
+${1:${VISUAL:Content}}
+```
 $0
 endsnippet
 
