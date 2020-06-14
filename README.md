@@ -39,3 +39,18 @@ https://github.com/tokorom/swift-dict.vim
 https://github.com/ammarnajjar/wombat256mod
 
 https://github.com/dshoreman/neogumbat.vim
+
+https://github.com/Galicarnax/vim-regex-syntax
+
+https://github.com/euclidianAce/BetterLua.vim
+
+https://github.com/damienstanton/vim-swift
+
+
+
+
+
+
+
+
+
