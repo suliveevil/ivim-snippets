@@ -41,3 +41,5 @@ https://github.com/tokorom/swift-dict.vim
 https://github.com/ammarnajjar/wombat256mod
 
 https://github.com/dshoreman/neogumbat.vim
+
+https://github.com/romainl/Apprentice
