@@ -42,3 +42,5 @@ https://github.com/damienstanton/vim-swift
 
 https://github.com/romainl/Apprentice
 
+https://github.com/yuan-/vim-interestingwords
+
