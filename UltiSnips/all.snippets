@@ -4,3 +4,7 @@ snippet box2 "Box"
 `!p snip.rv = '└' + '─' * (len(t[1]) + 2) + '┘'`
 $0
 endsnippet
+
+snippet uuid1 "Random UUID" w
+`!p if not snip.c: import uuid; snip.rv = str(uuid.uuid1())`
+endsnippet
